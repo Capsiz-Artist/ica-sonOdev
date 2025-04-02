@@ -1,0 +1,99 @@
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Projeler - Insider Takım 10</title>
+    <link href="../home/style.css" rel="stylesheet" type="text/css" />
+    <link href="projects.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="menu-btn">
+        <i class="fas fa-bars"></i>
+    </div>
+
+    <div class="top-nav">
+        <a href="../home/index.html">Anasayfa</a>
+        <a href="../about/about.html">Hakkımızda</a>
+        <a href="../team/team.html">Ekip Üyeleri</a>
+        <a href="../projects/projects.html">Projeler</a>
+        <a href="../contact/contact.html">İletişim</a>
+    </div>
+
+    <nav class="menu">
+        <ul>
+          <li><a href="../home/index.html">Anasayfa</a></li>
+          <li><a href="../about/about.html">Hakkımızda</a></li>
+          <li><a href="../team/team.html">Ekip Üyeleri</a></li>
+          <li><a href="../projects/projects.html">Projeler</a></li>
+          <li><a href="../contact/contact.html">İletişim</a></li>
+        </ul>
+    </nav>
+
+    <main class="projects-content">
+        <h1 class="fade-in">Projelerimiz</h1>
+        
+        <div class="project-container">
+            <div class="project-card active">
+                <h2>Dragon Repeller RPG</h2>
+                <div class="project-details">
+                    <p class="project-description">Rol yapma oyunu türünde geliştirdiğimiz Dragon Repeller'da ejderhayı yenmeye çalışın! Mağazadan silah ve can satın alın, canavarlarla savaşın ve hazineler toplayın.</p>
+                    <div class="tech-stack">
+                        <span>JavaScript</span>
+                        <span>HTML5</span>
+                        <span>CSS3</span>
+                    </div>
+                    <button class="play-button" onclick="toggleGame()">Oyunu Oyna</button>
+                    <div id="game" style="display: none;">
+                        <div id="stats">
+                            <span class="stat">XP: <strong><span id="xpText">0</span></strong></span>
+                            <span class="stat">Sağlık: <strong><span id="healthText">100</span></strong></span>
+                            <span class="stat">Altın: <strong><span id="goldText">50</span></strong></span>
+                        </div>
+                        <div id="controls">
+                            <button id="button1">Go to store</button>
+                            <button id="button2">Go to cave</button>
+                            <button id="button3">Fight dragon</button>
+                        </div>
+                        <div id="monsterStats">
+                            <span class="stat">Canavar: <strong><span id="monsterName"></span></strong></span>
+                            <span class="stat">Sağlık: <strong><span id="monsterHealth"></span></strong></span>
+                        </div>
+                        <div id="text">Welcome to Dragon Repeller. You must defeat the dragon that is preventing people from leaving the town. You are in the town square. Where do you want to go? Use the buttons above.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="project-card ongoing">
+                <h2>E-Ticaret Platformu</h2>
+                <div class="project-details">
+                    <p class="project-description">Modern ve kullanıcı dostu bir e-ticaret platformu geliştiriyoruz.</p>
+                    <div class="tech-stack">
+                        <span>React</span>
+                        <span>Node.js</span>
+                        <span>MongoDB</span>
+                    </div>
+                    <div class="project-progress">
+                        <div class="progress-bar" style="width: 60%"></div>
+                        <span>%60 Tamamlandı</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="testimonials">
+                <h3>Müşteri Yorumları</h3>
+                <div class="testimonial-card">
+                    <p>"Harika bir ekip! Projemizi zamanında ve beklentilerimizin üzerinde teslim ettiler."</p>
+                    <span>- Ali Yılmaz, XYZ Şirketi CEO'su</span>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="../home/script.js"></script>
+    <script src="game.js"></script>
+    <script src="projects.js"></script>
+</body>
+</html>
