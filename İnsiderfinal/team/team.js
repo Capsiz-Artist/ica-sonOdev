@@ -4,10 +4,10 @@ const teamMembers = [
         name: "Semih Boyacıoğlu",
         title: "Frontend Geliştirici",
         image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=500",
-        bio: "5 yıllık deneyimi ile modern web teknolojilerinde uzmanlaşmış frontend geliştiricisi.",
-        skills: ["React", "Vue.js", "TypeScript", "CSS3"],
+        bio: "Modern web teknolojilerinde uzmanlaşmış frontend geliştiricisi.",
+        skills: ["HTML", "CSS", "JavaScript", "PHP"],
         social: {
-            github: "https://github.com/ahmet",
+            github: "https://github.com/StrenchSAMA",
             linkedin: "https://linkedin.com/in/ahmet",
             twitter: "https://twitter.com/ahmet"
         },
@@ -15,12 +15,12 @@ const teamMembers = [
     },
     {
         name: "Kerem Mahmut Coşkun",
-        title: "UI/UX Tasarımcısı",
-        image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=500",
+        title: "Frontend Geliştirici",
+        image: "https://images.unsplash.com/photo-1557862921-37829c790f19?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         bio: "Kullanıcı deneyimini ön planda tutan, yaratıcı tasarım çözümleri üreten deneyimli tasarımcı.",
-        skills: ["Figma", "Adobe XD", "Prototyping", "User Research"],
+        skills: ["HTML", "CSS", "JavaScript"],
         social: {
-            dribbble: "https://dribbble.com/ayse",
+            github: "https://github.com/krmcsk",
             linkedin: "https://linkedin.com/in/ayse",
             behance: "https://behance.net/ayse"
         },
@@ -28,12 +28,12 @@ const teamMembers = [
     },
     {
         name: "Yusuf Kurt",
-        title: "Backend Geliştirici",
+        title: "Frontend Geliştirici",
         image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=500",
-        bio: "Ölçeklenebilir backend sistemleri geliştiren, veritabanı optimizasyonu konusunda uzman.",
-        skills: ["Node.js", "Python", "MongoDB", "AWS"],
+        bio: "Kullanıcı odaklı ve performanslı web uygulamaları geliştiren, modern frontend teknolojilerinde uzmanlaşmış bir geliştiriciyim.",
+        skills: ["HTML", "CSS", "JavaScript"],
         social: {
-            github: "https://github.com/mehmet",
+            github: "https://github.com/Capsiz-Artist",
             linkedin: "https://linkedin.com/in/mehmet",
             stackoverflow: "https://stackoverflow.com/users/mehmet"
         },
@@ -41,10 +41,10 @@ const teamMembers = [
     },
     {
         name: "Ecrin Nur Tabir",
-        title: "Mobil Uygulama Geliştirici",
+        title: "Frontend Geliştirici",
         image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=500",
-        bio: "iOS ve Android platformlarında 3 yıllık deneyime sahip, kullanıcı dostu mobil uygulamalar geliştiren yazılımcı.",
-        skills: ["Swift", "Kotlin", "Flutter", "Firebase"],
+        bio: "Frontend geliştirme konusunda geniş bir deneyime sahip, modern web teknolojilerine hakim bir geliştiriciyim.",
+        skills: ["HTML", "CSS", "JavaScript"],
         social: {
             github: "https://github.com/zeynep",
             linkedin: "https://linkedin.com/in/zeynep",
