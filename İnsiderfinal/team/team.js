@@ -24,7 +24,7 @@ const teamMembers = [
             linkedin: "https://linkedin.com/in/ayse",
             behance: "https://behance.net/ayse"
         },
-        funFact: "3D modelleme yapıyor."
+        funFact: "Amatör astronomi gözlemcisi."
     },
     {
         name: "Yusuf Kurt",
@@ -37,7 +37,7 @@ const teamMembers = [
             linkedin: "https://linkedin.com/in/mehmet",
             stackoverflow: "https://stackoverflow.com/users/mehmet"
         },
-        funFact: "Amatör astronomi gözlemcisi."
+        funFact: "3D modelleme yapıyor."
     },
     {
         name: "Ecrin Nur Tabir",
