@@ -3,7 +3,7 @@ const teamMembers = [
     {
         name: "Semih Boyacıoğlu",
         title: "Frontend Geliştirici",
-        image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=500",
+        image: "semihozfoto.jpeg",
         bio: "Modern web teknolojilerinde uzmanlaşmış frontend geliştiricisi.",
         skills: ["HTML", "CSS", "JavaScript", "PHP"],
         social: {
