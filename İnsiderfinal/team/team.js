@@ -14,7 +14,7 @@ const teamMembers = [
         funFact: "Boş zamanlarında sokak fotoğrafçılığı yapıyor."
     },
     {
-        name: "Ayşe Demir",
+        name: "Kerem Mahmut Coşkun",
         title: "UI/UX Tasarımcısı",
         image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=500",
         bio: "Kullanıcı deneyimini ön planda tutan, yaratıcı tasarım çözümleri üreten deneyimli tasarımcı.",
@@ -24,10 +24,10 @@ const teamMembers = [
             linkedin: "https://linkedin.com/in/ayse",
             behance: "https://behance.net/ayse"
         },
-        funFact: "Profesyonel dans eğitimi aldı."
+        funFact: "3D modelleme yapıyor."
     },
     {
-        name: "Mehmet Kaya",
+        name: "Yusuf Kurt",
         title: "Backend Geliştirici",
         image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=500",
         bio: "Ölçeklenebilir backend sistemleri geliştiren, veritabanı optimizasyonu konusunda uzman.",
@@ -40,7 +40,7 @@ const teamMembers = [
         funFact: "Amatör astronomi gözlemcisi."
     },
     {
-        name: "Zeynep Yıldız",
+        name: "Ecrin Nur Tabir",
         title: "Mobil Uygulama Geliştirici",
         image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=500",
         bio: "iOS ve Android platformlarında 3 yıllık deneyime sahip, kullanıcı dostu mobil uygulamalar geliştiren yazılımcı.",
