@@ -24,7 +24,7 @@ const teamMembers = [
             linkedin: "https://linkedin.com/in/ayse",
             behance: "https://behance.net/ayse"
         },
-        funFact: "Oyun oynamayı seviyor."
+        funFact: "Matematiğe ilgisi var."
     },
     {
         name: "Yusuf Kurt",
