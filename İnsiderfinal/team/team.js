@@ -29,13 +29,13 @@ const teamMembers = [
     {
         name: "Yusuf Kurt",
         title: "Frontend Geliştirici",
-        image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=500",
+        image: "yusufKurt.jpg",
         bio: "Kullanıcı odaklı ve performanslı web uygulamaları geliştiren, modern frontend teknolojilerinde uzmanlaşmış bir geliştiriciyim.",
         skills: ["HTML", "CSS", "JavaScript"],
         social: {
             github: "https://github.com/Capsiz-Artist",
-            linkedin: "https://linkedin.com/in/mehmet",
-            stackoverflow: "https://stackoverflow.com/users/mehmet"
+            linkedin: "https://www.linkedin.com/in/yusuf-kurt-2a1149352/",
+            //stackoverflow: "https://stackoverflow.com/users/mehmet"
         },
         funFact: "3D modelleme yapıyor."
     },
